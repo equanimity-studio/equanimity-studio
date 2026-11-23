@@ -4,7 +4,7 @@ I'm a self-taught front-end developer and the founder of **Equanimity Studios LL
 
 I build web and mobile apps in vanilla JavaScript. Before code, I spent 10+ years in executive support and office management, and I built a casting department's website and its 3,000+ person talent database for NBC's *Chicago P.D.*
 
-### 🔭 Currently building
+### Currently building
 
 **HopeScroll.me**, a coaching app for iOS and Android, now in TestFlight beta. A 5-question quiz assigns you one of 12 archetypes, which shapes a personalized feed of curated and AI-generated content. The code is private; a demo is available on request.
 
@@ -29,10 +29,10 @@ JavaScript (ES6+) · HTML5 · CSS3 (Flexbox, Grid) · Git · npm · webpack · C
 
 AI fundamentals, through *Elements of AI* (University of Helsinki) and then Harvard's *CS50 Introduction to AI with Python*.
 
-### ⚡ Fun fact
+### Fun fact
 
 I'm also a produced playwright, with an MFA in Acting, and the author of the poetry collection *Pink Limnade vol. 74*.
 
 ### Contact
 
-📫 [hello@equanimitystudios.com](mailto:hello@equanimitystudios.com)
+[hello@equanimitystudios.com](mailto:hello@equanimitystudios.com)
