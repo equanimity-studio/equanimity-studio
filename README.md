@@ -6,7 +6,7 @@ I build web and mobile apps in vanilla JavaScript. Before code, I spent 10+ year
 
 ### Currently building
 
-**HopeScroll.me**, a coaching app for iOS and Android, now in TestFlight beta. A 5-question quiz assigns you one of 12 archetypes, which shapes a personalized feed of curated and AI-generated content. The code is private; a demo is available on request.
+**HopeScroll.me**, a coaching app for iOS and Android, now in TestFlight beta. A 5-question quiz assigns you one of 12 archetypes, which shapes a personalized feed of curated and AI-generated content. **[Live demo](https://hopescroll.me)** (web version; the iOS/Android apps are in TestFlight beta). The code is private.
 
 ### Featured projects
 
